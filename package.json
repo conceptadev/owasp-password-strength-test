@@ -1,6 +1,6 @@
 {
   "name": "@inspire-platform/owasp-password-strength-test",
-  "version": "2.0.0-bleeding",
+  "version": "2.0.0",
   "description": "A password-strength tester based upon the OWASP guidelines for enforcing strong passwords.",
   "main": "owasp-password-strength-test.js",
   "devDependencies": {
